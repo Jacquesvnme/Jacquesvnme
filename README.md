@@ -49,32 +49,26 @@ I enjoy
 - Learning new coding languages and frameworks
 - Creating small functional applications with variety of purposes
 
-## Coding Languages I know <>
+## Coding Languages I know </>
 
-- C#
-- HTML
-- CSS
-- JavaScript
-- SQL
-- Transact-SQL (T-SQL)
-- Markdown
-- Delphi
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF) ![C#](https://img.shields.io/badge/c%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFFFFF) ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFFFFF) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=FFFFFF) ![Delphi](https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=delphi&logoColor=FFFFFF) 
 
 ## I’m currently learning 🌱
 
-- Python
-- JQuery
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFFFFF)
 
 ## Application Technologies I know related to my field 📱
 
-- Microsoft Word
-- Microsoft PowerPoint
-- Microsoft Excel
-- Microsoft Access
-- Microsoft SQL Server
-- GitHub
-- Visual Studio
-- Visual Studio Code
+![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=FFFFFF)
+![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=FFFFFF)
+![MS PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=FFFFFF)
+![MS Access](https://img.shields.io/badge/MS%20Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=FFFFFF)
+![MS Teams](https://img.shields.io/badge/MS%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=FFFFFF)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-A020F0?style=for-the-badge&logo=github&logoColor=181717)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=FFFFFF)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 
 ## Industry Knowledge & Subjects I know 📚
   
@@ -111,13 +105,23 @@ I enjoy
 - English
 - Afrikaans
 
+## Other Applications
+
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=FFFFFF)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=FFFFFF)
+
 ## Projects I have worked on 💻
 
 *Not Implemented Yet*
 
 ## Stats 📊
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatimeJacquesvnme=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+I use WakaTime Extension to record my programming time and progress
+
+![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=FFFFFF)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jacquesvnme)](https://github.com/anuraghazra/github-readme-stats)
 
 ## See my skills via my Website CV 📝
 
