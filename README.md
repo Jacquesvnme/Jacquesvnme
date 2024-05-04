@@ -89,7 +89,7 @@ Still needed
 - Research Methods
 - Intermediate Computer Components Knowledge
 
-## Interpersonal Skills or Personal Traits 🧠
+## Interpersonal Skills or Personal Traits 💡
 
 - Strategic
 - Creative
