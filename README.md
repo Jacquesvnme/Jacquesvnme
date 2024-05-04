@@ -117,7 +117,7 @@ I enjoy
 
 ## See my skills via my Website CV 📝
 
-*Not Implemented Yet*
+[*Being Implemented*](https://github.com/Jacquesvnme/webpage.git)
 
 <!---
 Jacquesvnme/Jacquesvnme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
