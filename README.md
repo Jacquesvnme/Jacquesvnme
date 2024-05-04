@@ -40,7 +40,14 @@ will help me solve any problem that might come my way
 
 ## Hobbies 🎮
 
-Still needed
+I enjoy
+
+- Playing games
+- Watching anime
+- Reading books and Manga
+- Listing to music
+- Learning new coding languages and frameworks
+- Creating small functional applications with variety of purposes
 
 ## Coding Languages I know <>
 
