@@ -115,6 +115,10 @@ I enjoy
 
 *Not Implemented Yet*
 
+## Stats 📊
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatimeJacquesvnme=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 ## See my skills via my Website CV 📝
 
 [*Being Implemented*](https://github.com/Jacquesvnme/webpage.git)
