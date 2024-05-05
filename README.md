@@ -125,7 +125,7 @@ I use WakaTime Extension to record my programming time and progress
 
 ## See my skills via my Website CV 📝
 
-[*Being Implemented*](https://github.com/Jacquesvnme/webpage.git)
+[*CV Webpage*]([https://github.com/Jacquesvnme/webpage.git](https://jacquesvnme.github.io/webpage/))
 
 <!---
 Jacquesvnme/Jacquesvnme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
