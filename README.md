@@ -1,3 +1,5 @@
+![...](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHplbHNlZ2Y2ZHBmemFqcXBpczk5NDByYzYwZjd6cjF3NXFiMXRmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
+
 # My name is Jacques Van Niekerk 👋
 
 Im a student striving to become a full stack developer
