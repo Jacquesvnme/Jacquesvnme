@@ -128,7 +128,7 @@ I enjoy
 
 ## Stats 📊
 
-I use WakaTime Extension to record my programming time and progress
+I use WakaTime Extension to record my programming time and progress. These stats are relatively short due to only recently starting the use of WakaTime
 
 ![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=FFFFFF)
 
