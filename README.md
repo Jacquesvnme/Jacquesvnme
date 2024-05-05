@@ -69,6 +69,7 @@ I enjoy
 ![GitHub](https://img.shields.io/badge/GitHub-A020F0?style=for-the-badge&logo=github&logoColor=181717)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=FFFFFF)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
+![RAD Studio](https://img.shields.io/badge/RAD%20Studio-E62431?style=flat&logo=radstudio&logoColor=FFFFFF)
 
 ## Industry Knowledge & Subjects I know 📚
   
@@ -125,7 +126,7 @@ I use WakaTime Extension to record my programming time and progress
 
 ## See my skills via my Website CV 📝
 
-[*CV Webpage*]([https://github.com/Jacquesvnme/webpage.git](https://jacquesvnme.github.io/webpage/))
+[![My Website CV](https://img.shields.io/badge/My%20Website%20CV-Click%20Here%20To%20View%20Website%20CV-green?labelColor=E34F26&style=flat&logo=html5&logoColor=FFFFFF&link=https://jacquesvnme.github.io/webpage/)](https://jacquesvnme.github.io/webpage/)
 
 <!---
 Jacquesvnme/Jacquesvnme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
