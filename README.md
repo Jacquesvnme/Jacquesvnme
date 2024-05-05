@@ -134,7 +134,7 @@ I use WakaTime Extension to record my programming time and progress
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jacquesvnme)](https://github.com/anuraghazra/github-readme-stats)
 
-## See my skills via my Website CV 📝
+## See my skills via my Website CV 🌐
 
 [![My Website CV](https://img.shields.io/badge/My%20Website%20CV-Click%20Here%20To%20View%20Website%20CV-green?labelColor=E34F26&style=for-the-badge&logo=html5&logoColor=FFFFFF&link=https://jacquesvnme.github.io/webpage/)](https://jacquesvnme.github.io/webpage/)
 
