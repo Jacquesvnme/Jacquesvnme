@@ -15,6 +15,8 @@ will help me solve any problem that might come my way
 
 ## Key Skills 🔧
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF) ![C#](https://img.shields.io/badge/c%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
 - Web Development
 - Software Development
 - Software Testing
@@ -23,8 +25,6 @@ will help me solve any problem that might come my way
 - Leadership Skills
 - Problem Solving
 - Project Management & Agile Methodologies
-- JavaScript & JQuery
-- C#
 
 ## Education 📖
 
