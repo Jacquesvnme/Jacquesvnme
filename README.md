@@ -8,10 +8,10 @@ Email : [577343@student.belgiumcampus.ac.za]()
 
 ## Personal Details 🆔
 
-I'm a student currently studying a Belgium Campus
-I have learnt a wide variety of programming languages and frameworks
+I'm a student currently studying a Belgium Campus.
+I have learnt a wide variety of programming languages and frameworks.
 I believe my problem solving skills is a highly valuable skill that
-will help me solve any problem that might come my way 
+will help me solve any problem that might come my way .
 
 ## Key Skills 🔧
 
