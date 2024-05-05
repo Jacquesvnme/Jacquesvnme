@@ -1,6 +1,6 @@
 # My name is Jacques Van Niekerk 👋 
 
-Im a student striving to become a full stack developer
+I'm a student striving to become a full stack developer
 
 ## Contact Details 📫
 
