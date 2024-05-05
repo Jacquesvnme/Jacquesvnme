@@ -1,10 +1,10 @@
-## My name is Jacques Van Niekerk 👋
+# My name is Jacques Van Niekerk 👋
 
 Im a student striving to become a full stack developer
 
 ## Contact Details 📫
 
-Email : 577343@student.belgiumcampus.ac.za
+Email : [577343@student.belgiumcampus.ac.za]()
 
 ## Personal Details 🆔
 
@@ -31,12 +31,12 @@ will help me solve any problem that might come my way
 | Belgium Campus ITversity (University) |
 | ----------- |
 | Bachelor of Computing - Software Engineering Specialization |
-| 2022 - 2025 (In progress) | 
+| 2022 - 2025 (In progress) |
 
 | Hoerskool Brandwag |
 | ----------- |
 | Highschool |
-| Graduated 2021  | 
+| Graduated 2021 |
 
 ## Hobbies 🎮
 
