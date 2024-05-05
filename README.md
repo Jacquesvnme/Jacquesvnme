@@ -12,10 +12,10 @@ I'm a student currently studying a Belgium Campus.
 I have learnt a wide variety of programming languages and frameworks.
 I believe my problem solving skills is a highly valuable skill that
 will help me solve any problem that might come my way .
+I also have provisiant skills in web programming which includes 
+HTML, CSS and Javascript along with a few of frameworks
 
 ## Key Skills 🔧
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF) ![C#](https://img.shields.io/badge/c%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 - Web Development
 - Software Development
