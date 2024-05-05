@@ -1,6 +1,4 @@
-![...](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHplbHNlZ2Y2ZHBmemFqcXBpczk5NDByYzYwZjd6cjF3NXFiMXRmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
-
-# My name is Jacques Van Niekerk 👋
+# My name is Jacques Van Niekerk 👋 
 
 Im a student striving to become a full stack developer
 
@@ -139,6 +137,8 @@ I use WakaTime Extension to record my programming time and progress
 ## See my skills via my Website CV 🌐
 
 [![My Website CV](https://img.shields.io/badge/My%20Website%20CV-Click%20Here%20To%20View%20Website%20CV-green?labelColor=E34F26&style=for-the-badge&logo=html5&logoColor=FFFFFF&link=https://jacquesvnme.github.io/webpage/)](https://jacquesvnme.github.io/webpage/)
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHplbHNlZ2Y2ZHBmemFqcXBpczk5NDByYzYwZjd6cjF3NXFiMXRmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="drawing" style="width:1050px;height:400px;"/>
 
 <!---
 Jacquesvnme/Jacquesvnme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
