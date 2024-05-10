@@ -58,6 +58,7 @@ I enjoy
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFFFFF)
 ![W3.CSS](https://img.shields.io/badge/W3.CSS-04AA6D?style=for-the-badge&logo=w3schools&logoColor=FFFFFF)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=FFFFFF)
 
 ## Application Technologies I know related to my field 📱
 
