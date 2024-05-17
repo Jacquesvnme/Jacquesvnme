@@ -4,7 +4,9 @@ I'm a student striving to become a full stack developer
 
 ## Contact Details 📫
 
-Email : [577343@student.belgiumcampus.ac.za]()
+Email : 577343@student.belgiumcampus.ac.za
+
+<a href="https://www.linkedin.com/in/jacques-van-niekerk-231b872ba/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&link=www.linkedin.com/in/jacques-van-niekerk-231b872ba" alt="Linkedin" /></a>
 
 ## Personal Details 🆔
 
