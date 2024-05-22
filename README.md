@@ -6,7 +6,7 @@ I'm a student striving to become a full stack developer
 
 Email : 577343@student.belgiumcampus.ac.za
 
-<a href="https://www.linkedin.com/in/jacques-van-niekerk-231b872ba/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&link=www.linkedin.com/in/jacques-van-niekerk-231b872ba" alt="Linkedin" /></a>
+[![Linkedin](https://img.shields.io/badge/Linkedin-Click%20here%20to%20view%20Linkedin%20Profile-green?labelColor=0A66C2&style=for-the-badge&logo=linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/jacques-van-niekerk-231b872ba/)](https://www.linkedin.com/in/jacques-van-niekerk-231b872ba/)
 
 ## Personal Details 🆔
 
@@ -114,12 +114,6 @@ I enjoy
 - English
 - Afrikaans
 
-## Other Applications 📲
-
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=FFFFFF)
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=FFFFFF)
-
 ## Large Projects I have worked on 💻
 
 | Projects | Description |
@@ -135,7 +129,7 @@ I enjoy
 
 ## Stats 📊
 
-I use WakaTime Extension to record my programming time and progress. These stats are relatively short due to only recently starting the use of WakaTime
+I use WakaTime Extension to record my programming time and progress. These stats are relatively **short** due to only recently starting the use of WakaTime
 
 ![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=FFFFFF)
 
