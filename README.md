@@ -61,6 +61,11 @@ I enjoy
 ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFFFFF)
 ![W3.CSS](https://img.shields.io/badge/W3.CSS-04AA6D?style=for-the-badge&logo=w3schools&logoColor=FFFFFF)
 
+![Npm](https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF)
+
 ## Application Technologies I know related to my field 📱
 
 ![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=FFFFFF)
