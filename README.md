@@ -57,9 +57,8 @@ I enjoy
 
 ## I’m currently learning 🌱
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-gray?style=for-the-badge&logoColor=FFFFFF)
 ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFFFFF)
-![W3.CSS](https://img.shields.io/badge/W3.CSS-04AA6D?style=for-the-badge&logo=w3schools&logoColor=FFFFFF)
 
 ![Npm](https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
