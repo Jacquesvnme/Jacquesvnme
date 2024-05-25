@@ -57,13 +57,11 @@ I enjoy
 
 ## I’m currently learning 🌱
 
-![Java](https://img.shields.io/badge/Java-gray?style=for-the-badge&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFFFFF)
 
-![Npm](https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF)
 
 ## Application Technologies I know related to my field 📱
 
@@ -77,6 +75,8 @@ I enjoy
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=FFFFFF)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 ![RAD Studio](https://img.shields.io/badge/RAD%20Studio-E62431?style=for-the-badge&logo=radstudio&logoColor=FFFFFF)
+![Npm](https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF)
 
 ## Industry Knowledge & Subjects I know 📚
   
