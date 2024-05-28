@@ -62,6 +62,7 @@ I enjoy
 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF)
 
 ## Application Technologies I know related to my field 📱
 
@@ -76,7 +77,6 @@ I enjoy
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 ![RAD Studio](https://img.shields.io/badge/RAD%20Studio-E62431?style=for-the-badge&logo=radstudio&logoColor=FFFFFF)
 ![Npm](https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF)
 
 ## Industry Knowledge & Subjects I know 📚
   
