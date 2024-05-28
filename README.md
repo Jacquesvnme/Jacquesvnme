@@ -10,12 +10,14 @@ Email : 577343@student.belgiumcampus.ac.za
 
 ## Personal Details 🆔
 
-I'm a student currently studying a Belgium Campus.
-I have learnt a wide variety of programming languages and frameworks.
-I believe my problem solving skills is a highly valuable skill that
-will help me solve any problem that might come my way .
+I'm a student currently studying at Belgium Campus 
+I have learnt a wide variety of programming languages and frameworks 
+I believe my problem solving skills is a highly valuable skill that 
+will help me solve any problem that might come my way 
+I am always open to learning new languages and gaining new knowledge
 I also have proficient skills in web programming which includes 
-HTML, CSS and Javascript along with a few of frameworks
+HTML, CSS, and JavaScript, along with a few frameworks & modules
+I would like to further my progress and one day become a full stack developer
 
 ## Key Skills 🔧
 
