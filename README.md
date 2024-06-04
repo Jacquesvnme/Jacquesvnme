@@ -146,6 +146,8 @@ I use WakaTime Extension to record my programming time and progress. These stats
 
 [![W3Schools](https://img.shields.io/badge/W3Schools-Click%20here%20to%20view%20W3Schools%20Profile-green?labelColor=04AA6D&style=for-the-badge&logo=w3schools&logoColor=FFFFFF&link=https://www.w3profile.com/Jacquesvnme)](https://www.w3profile.com/Jacquesvnme)
 
+[![codecademy](https://img.shields.io/badge/codecademy-Click%20here%20to%20view%20Codecademy%20Profile-green?labelColor=1F4056&style=for-the-badge&logo=codecademy&logoColor=FFFFFF&link=https://www.codecademy.com/profiles/Jacquesvnme)](https://www.codecademy.com/profiles/Jacquesvnme)
+
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHplbHNlZ2Y2ZHBmemFqcXBpczk5NDByYzYwZjd6cjF3NXFiMXRmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="drawing" style="width:1050px;height:400px;"/>
 
 <!---
