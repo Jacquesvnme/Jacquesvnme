@@ -53,6 +53,10 @@ I enjoy
 - Learning new coding languages and frameworks
 - Creating small functional applications with variety of purposes
 
+## Licenses & certifications
+
+[![Learn the Comand Line](https://img.shields.io/badge/Learn%20the%20Comand%20Line-1F4056?style=for-the-badge&logo=codecademy&link=https://www.codecademy.com/profiles/Jacquesvnme/certificates/c87ba0541f8be78bc2f4ba1128233f6f)](https://www.codecademy.com/profiles/Jacquesvnme/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
+
 ## Coding Languages I know </>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF) ![C#](https://img.shields.io/badge/c%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFFFFF) ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFFFFF) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=FFFFFF) ![Delphi](https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=delphi&logoColor=FFFFFF) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=FFFFFF) ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFFFFF) ![plotly js](https://img.shields.io/badge/plotly%20js-3F4F75?style=for-the-badge&logo=plotly)
