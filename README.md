@@ -55,7 +55,9 @@ I enjoy
 
 ## Licenses & certifications
 
-[![Learn the Command Line](https://img.shields.io/badge/Learn%20the%20Command%20Line-1F4056?style=for-the-badge&logo=codecademy&link=https://www.codecademy.com/profiles/Jacquesvnme/certificates/c87ba0541f8be78bc2f4ba1128233f6f)](https://www.codecademy.com/profiles/Jacquesvnme/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
+[![Learn the Command Line](https://img.shields.io/badge/Learn%20the%20Command%20Line-1F4056?style=for-the-badge&logo=codecademy&link=https://www.codecademy.com/profiles/Jacquesvnme/certificates/c87ba0541f8be78bc2f4ba1128233f6f)](https://www.codecademy.com/profiles/Jacquesvnme/certificates/c87ba0541f8be78bc2f4ba1128233f6f) [![Learn Navigation Design](https://img.shields.io/badge/Learn%20Navigation%20Design-1F4056?style=for-the-badge&logo=codecademy&link=https://www.codecademy.com/profiles/Jacquesvnme/certificates/91cf4a1767724a02a20b1eba7eca74ea)](https://www.codecademy.com/profiles/Jacquesvnme/certificates/91cf4a1767724a02a20b1eba7eca74ea)
+
+
 
 ## Coding Languages, Frameworks & More I know </>
 
