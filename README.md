@@ -65,7 +65,7 @@ I enjoy
 
 ## I’m currently learning 🌱
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/Java-gray?style=for-the-badge)
 
 ## Application & Technologies I know related to my field 📱
 
