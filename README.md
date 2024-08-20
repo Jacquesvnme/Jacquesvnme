@@ -55,17 +55,33 @@ I enjoy
 
 ## Licenses & certifications
 
-[![Learn the Command Line](https://img.shields.io/badge/Learn%20the%20Command%20Line-1F4056?style=for-the-badge&logo=codecademy&link=https://www.codecademy.com/profiles/Jacquesvnme/certificates/c87ba0541f8be78bc2f4ba1128233f6f)](https://www.codecademy.com/profiles/Jacquesvnme/certificates/c87ba0541f8be78bc2f4ba1128233f6f) [![Learn Navigation Design](https://img.shields.io/badge/Learn%20Navigation%20Design-1F4056?style=for-the-badge&logo=codecademy&link=https://www.codecademy.com/profiles/Jacquesvnme/certificates/91cf4a1767724a02a20b1eba7eca74ea)](https://www.codecademy.com/profiles/Jacquesvnme/certificates/91cf4a1767724a02a20b1eba7eca74ea) [![Node.js: Setting Up a Server](https://img.shields.io/badge/Node.js:%20Setting%20Up%20a%20Server-1F4056?style=for-the-badge&logo=codecademy&link=https://www.codecademy.com/profiles/Jacquesvnme/certificates/827011ad71164a86a41365e2262dcb5a)](https://www.codecademy.com/profiles/Jacquesvnme/certificates/827011ad71164a86a41365e2262dcb5a)
+[![Learn the Command Line](https://img.shields.io/badge/Learn%20the%20Command%20Line-1F4056?style=for-the-badge&logo=codecademy&link=https://www.codecademy.com/profiles/Jacquesvnme/certificates/c87ba0541f8be78bc2f4ba1128233f6f)](https://www.codecademy.com/profiles/Jacquesvnme/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
+[![Learn Navigation Design](https://img.shields.io/badge/Learn%20Navigation%20Design-1F4056?style=for-the-badge&logo=codecademy&link=https://www.codecademy.com/profiles/Jacquesvnme/certificates/91cf4a1767724a02a20b1eba7eca74ea)](https://www.codecademy.com/profiles/Jacquesvnme/certificates/91cf4a1767724a02a20b1eba7eca74ea)
+[![Node.js: Setting Up a Server](https://img.shields.io/badge/Node.js:%20Setting%20Up%20a%20Server-1F4056?style=for-the-badge&logo=codecademy&link=https://www.codecademy.com/profiles/Jacquesvnme/certificates/827011ad71164a86a41365e2262dcb5a)](https://www.codecademy.com/profiles/Jacquesvnme/certificates/827011ad71164a86a41365e2262dcb5a)
+[![OU | Reading and note taking](https://img.shields.io/badge/OU%20%7C%20Reading%20and%20note%20taking-1C1E3E?style=for-the-badge&link=https://www.open.edu/openlearn/profiles/zs182747/achievements)](https://www.open.edu/openlearn/profiles/zs182747/achievements)
 
 
 
 ## Coding Languages, Frameworks & More I know </>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF) ![C#](https://img.shields.io/badge/c%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFFFFF) ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFFFFF) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=FFFFFF) ![Delphi](https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=delphi&logoColor=FFFFFF) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=FFFFFF) ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFFFFF) ![plotly js](https://img.shields.io/badge/plotly%20js-3F4F75?style=for-the-badge&logo=plotly) ![Mongoose](https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
+![C#](https://img.shields.io/badge/c%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFFFFF)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFFFFF)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=FFFFFF)
+![Delphi](https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=delphi&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=FFFFFF)
+![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFFFFF)
+![plotly js](https://img.shields.io/badge/plotly%20js-3F4F75?style=for-the-badge&logo=plotly)
+![Mongoose](https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
 
 ## I’m currently learning 🌱
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/Java-gray?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/Java-EC2025?style=for-the-badge)
 
 ## Application & Technologies I know related to my field 📱
 
@@ -81,6 +97,7 @@ I enjoy
 ![RAD Studio](https://img.shields.io/badge/RAD%20Studio-E62431?style=for-the-badge&logo=radstudio&logoColor=FFFFFF)
 ![Npm](https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF)
+![Intelli IDEA](https://img.shields.io/badge/Intelli%20IDEA-000000?style=for-the-badge&logo=intellijidea)
 
 ## Industry Knowledge & Subjects I know 📚
   
@@ -128,11 +145,11 @@ I enjoy
 
 | Projects | Description |
 | --- | --- |
-| Project Execution Plan | Create a Complete Project Execution Plan (PEP) for a spesific product |
+| Project Execution Plan | Create a Complete Project Execution Plan (PEP) for a water Hyacinth Project as part of the International Project at Belgium Campus |
 
 ## Stats 📊
 
-I use WakaTime Extension to record my programming time and progress. These stats are relatively **short** due to only recently starting the use of WakaTime (Apr 2024)
+I use WakaTime Extension to record my programming time and progress. Stats have been recorded since Apr 2024
 
 ![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=FFFFFF)
 
