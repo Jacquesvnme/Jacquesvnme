@@ -98,6 +98,7 @@ I enjoy
 ![Npm](https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF)
 ![Intelli IDEA](https://img.shields.io/badge/Intelli%20IDEA-000000?style=for-the-badge&logo=intellijidea)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside)
 
 ## Industry Knowledge & Subjects I know 📚
   
