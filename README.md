@@ -83,7 +83,7 @@ I enjoy
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/Java-EC2025?style=for-the-badge)
 
-## Application & Technologies I know related to my field 📱
+## Application & Technologies I have used & related to my field 📱
 
 ![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=FFFFFF)
 ![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=FFFFFF)
@@ -99,6 +99,7 @@ I enjoy
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF)
 ![Intelli IDEA](https://img.shields.io/badge/Intelli%20IDEA-000000?style=for-the-badge&logo=intellijidea)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside)
+![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 
 ## Industry Knowledge & Subjects I know 📚
   
