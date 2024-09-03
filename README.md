@@ -78,10 +78,12 @@ I enjoy
 ![plotly js](https://img.shields.io/badge/plotly%20js-3F4F75?style=for-the-badge&logo=plotly)
 ![Mongoose](https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-EC2025?style=for-the-badge)
 
 ## I’m currently learning 🌱
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/Java-EC2025?style=for-the-badge)
+~
 
 ## Application & Technologies I have used & related to my field 📱
 
