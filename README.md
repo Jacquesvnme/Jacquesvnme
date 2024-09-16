@@ -122,6 +122,7 @@ I enjoy
 - Machine Learning
 - Research Methods
 - Intermediate Computer Components Knowledge
+- Innovation Management
 
 ## Interpersonal Skills or Personal Traits 💡
 
