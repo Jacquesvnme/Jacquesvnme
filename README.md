@@ -4,7 +4,8 @@ I'm a student striving to become a full stack developer
 
 ## Contact Details 📫
 
-Email : 577343@student.belgiumcampus.ac.za
+Email : 577343@student.belgiumcampus.ac.za (student) <br>
+Email : jacquesvnme@gmail.com (personal)
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-Click%20here%20to%20view%20Linkedin%20Profile-green?labelColor=0A66C2&style=for-the-badge&logo=linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/jacques-van-niekerk-231b872ba/)](https://www.linkedin.com/in/jacques-van-niekerk-231b872ba/)
 
@@ -144,7 +145,7 @@ I enjoy
 | Projects | Description |
 | --- | --- |
 | Research Proposal | The Internet of Things Safety Inside Households |
-| Leaf Scarring - Leaf Identification | An application responsible for analysing a photograph of a leaf and identifying certain key features related to the leaf. <br> These are features like leaf damage, number of scars, leaf length, leaf width, leaf area, and other related data |
+| Leaf Scarring - Leaf Identification | An application responsible for analysing a photograph of a leaf and identifying certain key features related to the leaf. <br> These are features like leaf damage, number of scars, area of scars, leaf length, leaf width, leaf area, and other related data |
 
 ## Stats 📊
 
