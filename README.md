@@ -144,13 +144,7 @@ I enjoy
 | Projects | Description |
 | --- | --- |
 | Research Proposal | The Internet of Things Safety Inside Households |
-| Agile Methodology | Researching Agile Methodologies and Popular Tools |
-
-## Large Projects Still too come 📝
-
-| Projects | Description |
-| --- | --- |
-| Project Execution Plan | Create a Complete Project Execution Plan (PEP) for a water Hyacinth Project as part of the International Project at Belgium Campus |
+| Leaf Scarring - Leaf Identification | An application responsible for analysing a photograph of a leaf and identifying certain key features related to the leaf. <br> These are features like leaf damage, number of scars, leaf length, leaf width, leaf area, and other related data |
 
 ## Stats 📊
 
