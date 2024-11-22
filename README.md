@@ -145,7 +145,8 @@ I enjoy
 | Projects | Description |
 | --- | --- |
 | Research Proposal | The Internet of Things Safety Inside Households |
-| Leaf Scarring - Leaf Identification | An application responsible for analysing a photograph of a leaf and identifying certain key features related to the leaf. <br> These are features like leaf damage, number of scars, area of scars, leaf length, leaf width, leaf area, and other related data |
+| Leaf Scarring - Leaf Identification | An application responsible for analysing a photograph of a leaf and identifying certain key features related to the leaf. <br> These are features like leaf damage, number of scars, area of scars, leaf length, leaf width, leaf area, and other related data <br> Please see my LinkedIn as it containt more information |
+| | Images <br> <img src="https://github.com/Jacquesvnme/Jacquesvnme/blob/main/Leaf%20Project/home%20page.png" alt="drawing" style="width:650px;height:400px;"/> <img src="https://github.com/Jacquesvnme/Jacquesvnme/blob/main/Leaf%20Project/new%20samples%20page.png" alt="drawing" style="width:650px;height:400px;"/> <img src="https://github.com/Jacquesvnme/Jacquesvnme/blob/main/Leaf%20Project/data%20review%20page.png" alt="drawing" style="width:650px;height:400px;"/> <img src="https://github.com/Jacquesvnme/Jacquesvnme/blob/main/Leaf%20Project/output%20page.png" alt="drawing" style="width:650px;height:400px;"/> <br><br> Poster <br> <img src="https://github.com/Jacquesvnme/Jacquesvnme/blob/main/Leaf%20Project/poster_png_final.png" alt="drawing" style="width:650px;height:400px;"/> <br><br> Presentation <br> <a href="https://github.com/Jacquesvnme/Jacquesvnme/blob/main/Leaf%20Project/Leaf%20Scarring%205%20-%20Presentation.pdf">Link</a>|
 
 ## Stats 📊
 
