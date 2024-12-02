@@ -9,6 +9,9 @@ Email : jacquesvnme@gmail.com (personal)
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-Click%20here%20to%20view%20Linkedin%20Profile-green?labelColor=0A66C2&style=for-the-badge&logo=linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/jacques-van-niekerk-231b872ba/)](https://www.linkedin.com/in/jacques-van-niekerk-231b872ba/)
 
+<b><i>Notice</i></b>, I have been getting issues with my student email <br>
+If you can't reach me at student email then please use my personal email instead
+
 ## Personal Details 🆔
 
 I'm a student currently studying at Belgium Campus 
