@@ -39,7 +39,7 @@ I would like to further my progress and one day become a full stack developer
 | Belgium Campus ITversity (University) |
 | ----------- |
 | Bachelor of Computing - Software Engineering Specialization |
-| 2022 - 2025 (In progress) |
+| 2022 - 2026 (In progress) |
 
 | Hoerskool Brandwag |
 | ----------- |
