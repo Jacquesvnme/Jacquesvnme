@@ -64,7 +64,7 @@ I enjoy
 [![Node.js: Setting Up a Server](https://img.shields.io/badge/Node.js:%20Setting%20Up%20a%20Server-1F4056?style=for-the-badge&logo=codecademy&link=https://www.codecademy.com/profiles/Jacquesvnme/certificates/827011ad71164a86a41365e2262dcb5a)](https://www.codecademy.com/profiles/Jacquesvnme/certificates/827011ad71164a86a41365e2262dcb5a)
 [![OU | Reading and note taking](https://img.shields.io/badge/OU%20%7C%20Reading%20and%20note%20taking-1C1E3E?style=for-the-badge&link=https://www.open.edu/openlearn/profiles/zs182747/achievements)](https://www.open.edu/openlearn/profiles/zs182747/achievements)
 
-## Coding Languages, Frameworks & More I know </>
+## Coding Languages, Frameworks & More I have had experience with </>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
@@ -80,8 +80,11 @@ I enjoy
 ![plotly js](https://img.shields.io/badge/plotly%20js-3F4F75?style=for-the-badge&logo=plotly)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![Java](https://img.shields.io/badge/Java-EC2025?style=for-the-badge)
 ![Next JS](https://img.shields.io/badge/Next%20JS-000000?style=for-the-badge&logo=nextdotjs)
+
+### Little
+
+![Java](https://img.shields.io/badge/Java-EC2025?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-00C2FF?style=for-the-badge&logo=react&logoColor=ffffff)
 
 ## I’m currently learning 🌱
